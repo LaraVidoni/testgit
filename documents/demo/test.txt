@@ -1,3 +1,4 @@
-Bonjour tout le monde !
+Bonjour le monde !
+git a été créé par Linus Torvalds en 2005 
 j'utilise git !
 git est un logiciel de gestion des versions decentralisé.
